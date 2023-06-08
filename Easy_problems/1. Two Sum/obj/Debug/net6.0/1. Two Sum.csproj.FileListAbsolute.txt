@@ -1,0 +1,15 @@
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\bin\Debug\net6.0\1. Two Sum.exe
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\bin\Debug\net6.0\1. Two Sum.deps.json
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\bin\Debug\net6.0\1. Two Sum.runtimeconfig.json
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\bin\Debug\net6.0\1. Two Sum.dll
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\bin\Debug\net6.0\1. Two Sum.pdb
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.dll
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\refint\1. Two Sum.dll
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.pdb
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\1. Two Sum.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\1. Two Sum\obj\Debug\net6.0\ref\1. Two Sum.dll
