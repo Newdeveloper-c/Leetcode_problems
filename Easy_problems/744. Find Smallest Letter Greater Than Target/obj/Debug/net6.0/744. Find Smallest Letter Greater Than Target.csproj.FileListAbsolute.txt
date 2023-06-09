@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\bin\Debug\net6.0\744. Find Smallest Letter Greater Than Target.exe
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\bin\Debug\net6.0\744. Find Smallest Letter Greater Than Target.deps.json
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\bin\Debug\net6.0\744. Find Smallest Letter Greater Than Target.runtimeconfig.json
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\bin\Debug\net6.0\744. Find Smallest Letter Greater Than Target.dll
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\bin\Debug\net6.0\744. Find Smallest Letter Greater Than Target.pdb
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.AssemblyInfo.cs
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.dll
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\refint\744. Find Smallest Letter Greater Than Target.dll
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.pdb
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\744. Find Smallest Letter Greater Than Target.genruntimeconfig.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\744. Find Smallest Letter Greater Than Target\obj\Debug\net6.0\ref\744. Find Smallest Letter Greater Than Target.dll

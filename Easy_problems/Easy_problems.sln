@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Two Sum", "1. Two Sum\1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{A81DB791-05E3-49FD-92B4-E7A379CF4BEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "347. Top K Frequent Elements", "347. Top K Frequent Elements\347. Top K Frequent Elements.csproj", "{0B23799D-7099-4E53-9EEF-09FD3E723D2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "347. Top K Frequent Elements", "347. Top K Frequent Elements\347. Top K Frequent Elements.csproj", "{0B23799D-7099-4E53-9EEF-09FD3E723D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "744. Find Smallest Letter Greater Than Target", "744. Find Smallest Letter Greater Than Target\744. Find Smallest Letter Greater Than Target.csproj", "{2C3D1E8E-0340-47AD-8A27-87FA41A65D87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0B23799D-7099-4E53-9EEF-09FD3E723D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B23799D-7099-4E53-9EEF-09FD3E723D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B23799D-7099-4E53-9EEF-09FD3E723D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3D1E8E-0340-47AD-8A27-87FA41A65D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3D1E8E-0340-47AD-8A27-87FA41A65D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3D1E8E-0340-47AD-8A27-87FA41A65D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3D1E8E-0340-47AD-8A27-87FA41A65D87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
