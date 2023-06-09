@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _1._Two_Sum
-build_property.ProjectDir = C:\Users\User\source\repos\Leetcode_problems\Easy_problems\1. Two Sum\
+build_property.RootNamespace = _3._Longest_Substring_Without_Repeating_Characters
+build_property.ProjectDir = C:\Users\User\Source\Repos\Leetcode_problems\Easy_problems\3. Longest Substring Without Repeating Characters\

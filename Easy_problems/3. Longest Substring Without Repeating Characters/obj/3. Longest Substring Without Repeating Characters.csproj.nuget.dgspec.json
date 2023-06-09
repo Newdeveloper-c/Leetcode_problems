@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\1. Two Sum\\1. Two Sum.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\3. Longest Substring Without Repeating Characters\\3. Longest Substring Without Repeating Characters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\1. Two Sum\\1. Two Sum.csproj": {
+    "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\3. Longest Substring Without Repeating Characters\\3. Longest Substring Without Repeating Characters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\1. Two Sum\\1. Two Sum.csproj",
-        "projectName": "1. Two Sum",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\1. Two Sum\\1. Two Sum.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\3. Longest Substring Without Repeating Characters\\3. Longest Substring Without Repeating Characters.csproj",
+        "projectName": "3. Longest Substring Without Repeating Characters",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\3. Longest Substring Without Repeating Characters\\3. Longest Substring Without Repeating Characters.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\1. Two Sum\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Leetcode_problems\\Easy_problems\\3. Longest Substring Without Repeating Characters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

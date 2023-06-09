@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{D2403E64-6617-402C-AE29-C9ABCD4FBAB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{A81DB791-05E3-49FD-92B4-E7A379CF4BEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{D2403E64-6617-402C-AE29-C9ABCD4FBAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2403E64-6617-402C-AE29-C9ABCD4FBAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2403E64-6617-402C-AE29-C9ABCD4FBAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81DB791-05E3-49FD-92B4-E7A379CF4BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81DB791-05E3-49FD-92B4-E7A379CF4BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81DB791-05E3-49FD-92B4-E7A379CF4BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81DB791-05E3-49FD-92B4-E7A379CF4BEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F358F0E1-2C54-4B71-85AA-662BEC7BF9F0}
 	EndGlobalSection
 EndGlobal
