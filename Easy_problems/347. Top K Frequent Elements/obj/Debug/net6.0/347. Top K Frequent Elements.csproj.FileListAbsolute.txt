@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\bin\Debug\net6.0\347. Top K Frequent Elements.exe
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\bin\Debug\net6.0\347. Top K Frequent Elements.deps.json
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\bin\Debug\net6.0\347. Top K Frequent Elements.runtimeconfig.json
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\bin\Debug\net6.0\347. Top K Frequent Elements.dll
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\bin\Debug\net6.0\347. Top K Frequent Elements.pdb
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.dll
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\refint\347. Top K Frequent Elements.dll
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.pdb
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\347. Top K Frequent Elements.genruntimeconfig.cache
+C:\Users\User\source\repos\Leetcode_problems\Easy_problems\347. Top K Frequent Elements\obj\Debug\net6.0\ref\347. Top K Frequent Elements.dll
